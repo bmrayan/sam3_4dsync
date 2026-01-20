@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+conda/
+.env
+
+# Editors
+.vscode/
+.idea/
+
+# Data / outputs
+data/
+datasets/
+outputs/
+runs/
+wandb/
+checkpoints/
+
+# Models
+*.pt
+*.pth
+*.ckpt
+
+# Media
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Numpy dumps
+*.npy
+*.npz
