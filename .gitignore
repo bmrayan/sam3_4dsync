@@ -26,12 +26,6 @@ checkpoints/
 *.pth
 *.ckpt
 
-# Media
-*.mp4
-*.mov
-*.avi
-*.mkv
-
 # Archives
 *.zip
 *.tar
